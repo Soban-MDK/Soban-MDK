@@ -1,16 +1,8 @@
-
-- 👀 I’m interested in Data Analysis, Machine Learning, Artificial Intelligence
-- 🌱 I’m currently learning MLOPS and a bit of development
-- 💞️ I’m looking to collaborate on any real life projects
-- 📫 Reach me out at `mohammad.s@medkart.in`
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
 <h1 align="center">Hello World 👋, Mohammad Soban Shaikh here....</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer from India</h3>
 
 # 💫 About Me:
-🧑🏻‍💻 Software Development Intern @ Medkart pharmacy <br>🔭 I’m currently Studying Computer Science and Engineering<br>🌱 I’m currently learning MLOps<br>📫 How to reach me `soban1103@gmail.com` <br> 🌐 All my Technical Project are here: [Github Repo's](https://github.com/Mohammad-Soban?tab=repositories). <br> ⚡From data’s depths, I draw the light, Turning patterns into stories bright
+🧑🏻‍💻 Software Development Intern @ Medkart pharmacy <br>🔭 I’m currently Studying Computer Science and Engineering<br>🌱 I’m currently learning MLOps<br>📫 How to reach me `mohammad.s@medkart.in` <br> 🌐 All my Technical Project are here: [Github Repo's](https://github.com/Mohammad-Soban?tab=repositories). <br> ⚡From data’s depths, I draw the light, Turning patterns into stories bright
 <!-- If `` does not works add ** Data **  in the above email id-->
 
 ## 🌐 Socials:
